@@ -1,0 +1,31 @@
+.Pic {
+  margin: 8px;
+  font-size: 14px;
+  border-radius: 7px;
+  color: #000000;
+  background-color: rgb(122 187 220 / 43%);
+  text-align: center;
+  padding: 2px;
+  padding-top: 5px;
+  cursor: pointer;
+  border: 1px solid #006196c9;
+}
+
+.Pic {
+  height: 26px;
+  width: 75px;
+  line-height: 19px;
+}
+
+.ant-tooltip-inner {
+  background-color: rgb(2 135 145) !important;
+  min-height: 20px !important;
+  color: #05212f !important;
+}
+
+.ant-tooltip-arrow-content {
+  width: 6px !important;
+  height: 6px !important;
+  background-color: rgb(2 135 145) !important;
+  pointer-events: auto;
+}
