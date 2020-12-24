@@ -18,7 +18,7 @@ class Products extends Component {
             <ProductWrapper>
                 <div className="cardList">
                     <div className="cardHeader">
-                        Products
+                        {/* Products */}
                     </div>
                     <div className="cardcontent">
                         {UserData.map((menu, index) => (
